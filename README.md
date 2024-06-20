@@ -70,7 +70,7 @@ Use the explorer link in CMD to check if verified and you'll also see below imag
 ----------------------
 ### Tweet exactly as screenshot and Submit Proof in Dscord 
 
-<img width="459" alt="image" src="https://github.com/raghav353/Alignedlayer-testnet-proof/assets/151916837/c9a62ca8-6c64-4835-be7a-282f44fc124c">
+![image](https://github.com/sivapichala/AlignedLayer_testnet_proof/assets/152256858/de745bbb-e73a-4505-99be-2825b5d88782)
 
 
 
