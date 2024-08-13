@@ -22,6 +22,7 @@ sudo apt-get install curl -y
 curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batcher/aligned/install_aligned.sh | bash
 ```
 
+
 ```
 source /root/.bashrc
 ```
